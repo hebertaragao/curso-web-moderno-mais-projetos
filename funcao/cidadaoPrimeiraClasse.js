@@ -21,7 +21,7 @@ const fun2 = function(){
  obj.falar = function () { return 'Opa'}
  console.log(obj.falar())
 
- // Passar função como parãmetro
+ // Passar função como param
  function run(fun){
     fun()
  }
